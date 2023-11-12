@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using System.Linq;
 namespace TestesUnitarios.Desafio.Console.Services
 {
     public class ValidacoesLista
